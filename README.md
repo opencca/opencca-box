@@ -8,22 +8,21 @@ This repository contains 3d models for OpenCCA.
 4. [Raspberry Pi 5 Case](#RaspberryPi5Case)
 5. [Raspberry Pi 3 Case](#RaspberryPi3Case)
 
-
-
-###  1. <a name='StackableShelf'></a>Stackable Shelf
+### 1. <a name='StackableShelf'></a>Stackable Shelf
 
 > "Small Stackable Shelf" by DamianB2, MakerWorld, licensed under the Standard Digital File License.
 
 The Standard Digital File License forbids re-upload of the model file. Download the file at and change dimensions as follows:
 
-
-[https://makerworld.com/en/models/836617-small-stackable-shelfb](https://makerworld.com/en/models/836617-small-stackable-shelfb)
+https://makerworld.com/en/models/836617-small-stackable-shelfb
 
 **160x80x70mm**
 
-[![shelf dim](./assets/shelf-dim.png)](./assets/shelf-dim.png)
+<a href="./assets/shelf-dim.png">
+  <img src="./assets/shelf-dim.png" alt="shelf dim" width="420">
+</a>
 
-###  2. <a name='FanMount'></a>Fan Mount
+### 2. <a name='FanMount'></a>Fan Mount
 
 3D Models for 80 mm fans (inner and outer piece)
 
@@ -33,34 +32,43 @@ The Standard Digital File License forbids re-upload of the model file. Download 
 
 Changes in this repo: Model was sliced to obtain inner piece and scaled for 80 and 120 mm.
 
-[![fan mount](./assets/fans.jpg)](./assets/fans.jpg)
-
-[![fan mount](./assets/fans2.jpg)](./assets/fans2.jpg)
+<table>
+  <tr>
+    <td>
+      <a href="./assets/fans.jpg">
+        <img src="./assets/fans.jpg" alt="fan mount" width="360">
+      </a>
+    </td>
+    <td>
+      <a href="./assets/fans2.jpg">
+        <img src="./assets/fans2.jpg" alt="fan mount 2" width="360">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Files: [./models/fan-mount](./models/fan-mount)
 
-
-###  3. <a name='Rock5BCase'></a>Rock 5B Case
+### 3. <a name='Rock5BCase'></a>Rock 5B Case
 
 > Author: ginger_space_ninja (Printables: @ginger_space_1730617)  
 > Source: https://www.printables.com/model/780780-rock-5b-case  
 > License: Creative Commons (4.0 International License)
 
-[![rock5b](./assets/rock5b-bottom.png)](./assets/rock5b-bottom.png)
-
+<a href="./assets/rock5b-bottom.png">
+  <img src="./assets/rock5b-bottom.png" alt="rock5b bottom" width="420">
+</a>
 
 We only used the bottom part, such that GPIO pins are still accessible.
 
-[https://www.printables.com/model/780780-rock-5b-case](https://www.printables.com/model/780780-rock-5b-case)
+https://www.printables.com/model/780780-rock-5b-case
 
 Files: [./models/rock5b](./models/rock5b)
 
-
-###  4. <a name='RaspberryPi5Case'></a>Raspberry Pi 5 Case
+### 4. <a name='RaspberryPi5Case'></a>Raspberry Pi 5 Case
 
 Pick a model that does not hide GPIO pins.
 
-
-###  5. <a name='RaspberryPi3Case'></a>Raspberry Pi 3 Case
+### 5. <a name='RaspberryPi3Case'></a>Raspberry Pi 3 Case
 
 Pick a model that does not hide GPIO pins.
