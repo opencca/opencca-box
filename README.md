@@ -7,6 +7,8 @@ This repository contains 3d models for OpenCCA.
 3. [Rock 5B Case](#Rock5BCase)
 4. [Raspberry Pi 5 Case](#RaspberryPi5Case)
 5. [Raspberry Pi 3 Case](#RaspberryPi3Case)
+5. [Pictures](#pictures)
+
 
 ### 1. <a name='StackableShelf'></a>Stackable Shelf
 
@@ -74,3 +76,9 @@ For instance, https://www.printables.com/model/653858-raspberry-pi-5-case/commen
 ### 5. <a name='RaspberryPi3Case'></a>Raspberry Pi 3 Case
 
 Pick a model that does not hide GPIO pins.
+
+### 6. <a name='pictures'></a>Pictures
+![box0](./box/box1.jpg)
+![box1](./box/box2.jpg)
+![box2](./box/box3.jpg)
+
