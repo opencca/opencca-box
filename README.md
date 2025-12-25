@@ -69,6 +69,8 @@ Files: [./models/rock5b](./models/rock5b)
 
 Pick a model that does not hide GPIO pins.
 
+For instance, https://www.printables.com/model/653858-raspberry-pi-5-case/comments
+
 ### 5. <a name='RaspberryPi3Case'></a>Raspberry Pi 3 Case
 
 Pick a model that does not hide GPIO pins.
