@@ -81,8 +81,8 @@ Pick a model that does not hide GPIO pins.
 ![box0](./box/box1.jpg)
 ![box1](./box/box2.jpg)
 ![box2](./box/box3.jpg)
-![boxb0](./box/boxb1.jpg)
-![boxb1](./box/boxb2.jpg)
-![boxb2](./box/boxb3.jpg)
+![boxb0](./box/boxb1.jpeg)
+![boxb1](./box/boxb2.jpeg)
+![boxb2](./box/boxb3.jpeg)
 
 
